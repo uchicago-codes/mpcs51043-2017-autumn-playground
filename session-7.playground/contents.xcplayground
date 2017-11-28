@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='Linear Search'/>
+        <page name='Selection Sort'/>
+        <page name='Timing Code'/>
+        <page name='Bubble Sort'/>
+        <page name='Insertion Sort'/>
+        <page name='Sum Of'/>
+        <page name='Unit Testing'/>
+    </pages>
+</playground>
